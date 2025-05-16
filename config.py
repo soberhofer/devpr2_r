@@ -34,7 +34,7 @@ batch_size = 32
 #num_workers = 2
 #num_workers = 0
 # for local Windows or Linux machine
-num_workers = 8
+num_workers = 4
 persistent_workers = True
 disable_bat_pbar= False
 #persistent_workers = False
